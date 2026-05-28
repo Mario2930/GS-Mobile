@@ -1,4 +1,4 @@
-package com.fiap.ec.globalsoluction1backend.model;
+package com.fiap.ec.global_soluction_1_backend.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

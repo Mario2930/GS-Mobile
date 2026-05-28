@@ -1,12 +1,12 @@
-package com.fiap.ec.globalsoluction1backend;
+package com.fiap.ec.global_soluction_1_backend;
 
 import java.util.List;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import com.fiap.ec.globalsoluction1backend.model.Sensor;
-import com.fiap.ec.globalsoluction1backend.repository.SensorRepository;
+import com.fiap.ec.global_soluction_1_backend.model.Sensor;
+import com.fiap.ec.global_soluction_1_backend.repository.SensorRepository;
 
 @Component
 public class DataLoader implements CommandLineRunner {

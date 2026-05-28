@@ -1,11 +1,11 @@
-package com.fiap.ec.globalsoluction1backend.service;
+package com.fiap.ec.global_soluction_1_backend.service;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.fiap.ec.globalsoluction1backend.model.Sensor;
-import com.fiap.ec.globalsoluction1backend.repository.SensorRepository;
+import com.fiap.ec.global_soluction_1_backend.model.Sensor;
+import com.fiap.ec.global_soluction_1_backend.repository.SensorRepository;
 
 @Service
 public class SensorService {
